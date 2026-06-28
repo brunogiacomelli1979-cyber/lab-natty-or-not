@@ -16,21 +16,21 @@ A proposta inicial era criar apenas uma imagem realista com IA. Porém, para tor
 
 Criar um conteúdo visual realista com apoio de IA Generativa e avaliar o quanto ele se aproxima de um resultado natural, considerando critérios como:
 
-* Realismo visual;
-* Naturalidade facial;
-* Coerência do ambiente;
-* Proporções humanas;
-* Sinais de geração artificial;
-* Aplicabilidade em portfólio profissional.
+- Realismo visual;
+- Naturalidade facial;
+- Coerência do ambiente;
+- Proporções humanas;
+- Sinais de geração artificial;
+- Aplicabilidade em portfólio profissional.
 
 ---
 
 ## 🤖 Tecnologias Utilizadas
 
-* **ChatGPT** — apoio na definição da ideia, estruturação do projeto, documentação e reflexão crítica.
-* **IA Generativa de Imagem** — criação da imagem realista do avatar profissional.
-* **GitHub** — versionamento e publicação do projeto.
-* **Markdown** — documentação dos arquivos do repositório.
+- **ChatGPT** — apoio na definição da ideia, estruturação do projeto, documentação e reflexão crítica.
+- **IA Generativa de Imagem** — criação da imagem realista do avatar profissional.
+- **GitHub** — versionamento e publicação do projeto.
+- **Markdown** — documentação dos arquivos do repositório.
 
 ---
 
@@ -84,14 +84,14 @@ O conteúdo final pode ser acessado em:
 
 Para avaliar o resultado, foi criada uma matriz simples com critérios de naturalidade e realismo.
 
-| Critério              |   Avaliação | Comentário                                                                              |
-| --------------------- | ----------: | --------------------------------------------------------------------------------------- |
-| Realismo visual       |        Alto | A imagem apresenta boa iluminação, composição profissional e aparência fotográfica.     |
-| Naturalidade facial   |        Alto | A expressão é natural e não apresenta exageros visuais evidentes.                       |
-| Coerência do ambiente |        Alto | O cenário comunica tecnologia, dados e inteligência artificial.                         |
-| Proporções humanas    |  Médio/Alto | A imagem é convincente, embora alguns detalhes sempre possam exigir revisão humana.     |
-| Sinais de IA          | Baixo/Médio | A imagem é realista, mas o excesso de perfeição visual pode indicar geração artificial. |
-| Uso em portfólio      |        Alto | O resultado pode ser usado como material complementar em um projeto de IA Generativa.   |
+| Critério | Avaliação | Comentário |
+|---|---:|---|
+| Realismo visual | Alto | A imagem apresenta boa iluminação, composição profissional e aparência fotográfica. |
+| Naturalidade facial | Alto | A expressão é natural e não apresenta exageros visuais evidentes. |
+| Coerência do ambiente | Alto | O cenário comunica tecnologia, dados e inteligência artificial. |
+| Proporções humanas | Médio/Alto | A imagem é convincente, embora alguns detalhes sempre possam exigir revisão humana. |
+| Sinais de IA | Baixo/Médio | A imagem é realista, mas o excesso de perfeição visual pode indicar geração artificial. |
+| Uso em portfólio | Alto | O resultado pode ser usado como material complementar em um projeto de IA Generativa. |
 
 ### Veredito
 
@@ -132,10 +132,10 @@ lab-natty-or-not/
 
 ## 📚 Documentação do Projeto
 
-* [Processo Criativo](./docs/processo-criativo.md)
-* [Prompt de Geração de Imagem](./prompts/01_prompt_imagem.md)
-* [Matriz de Avaliação Natty or Not](./docs/matriz-avaliacao-natty.md)
-* [Conteúdo Final](./resultados/conteudo-final.md)
+- [Processo Criativo](./docs/processo-criativo.md)
+- [Prompt de Geração de Imagem](./prompts/01_prompt_imagem.md)
+- [Matriz de Avaliação Natty or Not](./docs/matriz-avaliacao-natty.md)
+- [Conteúdo Final](./resultados/conteudo-final.md)
 
 ---
 
@@ -165,12 +165,12 @@ O veredito final é:
 
 ## 🏷️ Hashtags
 
-#LabDIONattyOrNot
-#DIO
-#InteligenciaArtificial
-#IAGenerativa
-#PromptEngineering
-#GitHub
-#Portfolio
-#Dados
+#LabDIONattyOrNot  
+#DIO  
+#InteligenciaArtificial  
+#IAGenerativa  
+#PromptEngineering  
+#GitHub  
+#Portfolio  
+#Dados  
 #BusinessIntelligence
