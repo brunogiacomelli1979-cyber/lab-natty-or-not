@@ -7,14 +7,20 @@ Criar uma imagem profissional realista para o projeto **Natty or Not**, exploran
 ## Prompt utilizado
 
 ```text
-Crie uma imagem realista de um profissional brasileiro adulto em um ambiente moderno de tecnologia, com aparência natural, expressão confiante e acessível, usando roupa social casual. O cenário deve sugerir análise de dados, inteligência artificial e inovação, com telas ao fundo exibindo gráficos abstratos, dashboards e visualizações de dados.
+Crie uma imagem realista de um profissional brasileiro adulto em um ambiente moderno de tecnologia, com aparência natural, expressão confiante e acessível, usando roupa social casual.
 
-A imagem deve ter estilo fotográfico realista, iluminação profissional, textura de pele natural, proporções humanas realistas e composição limpa. Não deve parecer futurista demais, artificial ou cartunesca. Não incluir textos, logotipos ou marcas visíveis.
+O cenário deve sugerir análise de dados, inteligência artificial e inovação, com telas ao fundo exibindo gráficos abstratos, dashboards e visualizações de dados.
 
-Critérios usados para avaliar a imagem
-Aparência natural do rosto.
-Iluminação realista.
-Proporções humanas coerentes.
-Ambiente compatível com tecnologia e dados.
-Ausência de textos ou marcas.
-Baixo nível de aparência artificial.
+A imagem deve ter estilo fotográfico realista, iluminação profissional, textura de pele natural, proporções humanas realistas e composição limpa.
+
+Não deve parecer futurista demais, artificial ou cartunesca. Não incluir textos, logotipos ou marcas visíveis.
+```
+
+## Critérios usados para avaliar a imagem
+
+- Aparência natural do rosto.
+- Iluminação realista.
+- Proporções humanas coerentes.
+- Ambiente compatível com tecnologia e dados.
+- Ausência de textos ou marcas.
+- Baixo nível de aparência artificial.
